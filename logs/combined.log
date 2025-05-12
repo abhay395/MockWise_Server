@@ -1,0 +1,210 @@
+{"level":"info","message":"Server running in development mode on port 3000","timestamp":"2025-05-11T14:21:41.418Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-01.i6pnzbk.mongodb.net","timestamp":"2025-05-11T14:21:43.415Z"}
+{"level":"info","message":"Server running in development mode on port 3000","timestamp":"2025-05-11T14:22:23.220Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-00.i6pnzbk.mongodb.net","timestamp":"2025-05-11T14:22:25.200Z"}
+{"level":"info","message":"Server running in development mode on port 3000","timestamp":"2025-05-11T15:37:15.546Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-02.i6pnzbk.mongodb.net","timestamp":"2025-05-11T15:37:17.076Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T15:51:40.744Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T15:51:40.748Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T15:51:40.991Z"}
+{"level":"error","message":"AuthService - registerUser: User already exists","timestamp":"2025-05-11T15:51:41.219Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T15:51:41.579Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T15:51:41.673Z"}
+{"level":"error","message":"AuthService - getCurrentUser: User not found","timestamp":"2025-05-11T15:51:41.852Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T15:51:41.944Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T15:56:04.661Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T15:56:04.673Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T15:56:04.864Z"}
+{"level":"error","message":"AuthService - registerUser: User already exists","timestamp":"2025-05-11T15:56:05.077Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T15:56:05.430Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T15:56:05.520Z"}
+{"level":"error","message":"AuthService - getCurrentUser: User not found","timestamp":"2025-05-11T15:56:05.688Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T15:56:05.722Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T15:58:19.802Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T15:58:19.825Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T15:58:19.873Z"}
+{"level":"error","message":"AuthController - register: Registration failed","timestamp":"2025-05-11T15:58:19.957Z"}
+{"level":"error","message":"AuthController - login: Login failed","timestamp":"2025-05-11T15:58:19.983Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T15:58:19.999Z"}
+{"level":"error","message":"AuthController - getMe: User not found","timestamp":"2025-05-11T15:58:20.016Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T15:58:20.023Z"}
+{"level":"error","message":"AuthService - registerUser: User already exists","timestamp":"2025-05-11T15:58:20.181Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T15:58:20.515Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T15:58:20.609Z"}
+{"level":"error","message":"AuthService - getCurrentUser: User not found","timestamp":"2025-05-11T15:58:20.781Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T15:58:20.814Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T16:01:08.974Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-11T16:01:09.129Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T16:01:09.292Z"}
+{"level":"error","message":"AuthService - registerUser: User already exists","timestamp":"2025-05-11T16:01:09.335Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T16:01:09.732Z"}
+{"level":"error","message":"AuthService - loginUser: Invalid credentials","timestamp":"2025-05-11T16:01:09.832Z"}
+{"level":"error","message":"AuthService - getCurrentUser: User not found","timestamp":"2025-05-11T16:01:10.019Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-11T16:01:10.059Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-11T16:08:10.649Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-11T16:08:20.685Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-11T16:08:30.708Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-11T16:08:40.737Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-11T16:08:50.771Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:00:39.498Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:00:49.493Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:00:59.504Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:01:09.550Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:01:19.576Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:04:13.257Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:04:23.269Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:04:33.281Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:04:43.306Z"}
+{"level":"error","message":"AuthService - registerUser: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2025-05-12T02:04:53.323Z"}
+{"level":"info","message":"Server running in test mode on port 3000","timestamp":"2025-05-12T02:19:15.712Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-02.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:19:17.250Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:19:17.337Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.407Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.428Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.453Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.458Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.466Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.478Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.493Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.501Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.510Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:17 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:17.518Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:19:17.523Z"}
+{"level":"info","message":"Server running in test mode on port 3000","timestamp":"2025-05-12T02:19:31.315Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-01.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:19:32.359Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:19:32.435Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.495Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.518Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.530Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.534Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.546Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.556Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.568Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.579Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.587Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:19:32 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:19:32.598Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:19:32.603Z"}
+{"level":"info","message":"Server running in test mode on port 3000","timestamp":"2025-05-12T02:21:26.028Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-01.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:21:27.504Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:21:27.585Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.650Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.675Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.687Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.693Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.704Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.713Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.726Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.737Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.747Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:21:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:21:27.756Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:21:27.762Z"}
+{"level":"info","message":"Server running in test mode on port 3000","timestamp":"2025-05-12T02:22:14.692Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-01.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:22:16.122Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:22:16.268Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.557Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.574Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.584Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.588Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.598Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.606Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.614Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.624Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.634Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:22:16 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:22:16.642Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:22:16.656Z"}
+{"level":"info","message":"Server running in test mode on port 3000","timestamp":"2025-05-12T02:25:50.803Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-00.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:25:52.853Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:25:52.969Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.056Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.087Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.110Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.119Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.138Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.153Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.167Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.178Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.194Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:25:53 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:25:53.205Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:25:53.219Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-01.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:27:01.032Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:27:01.140Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.203Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.226Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.238Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.243Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.255Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.264Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.275Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.283Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.291Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:01 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:01.299Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:27:01.316Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-00.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:27:35.346Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:27:35.408Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 201 248 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.621Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.647Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.658Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.663Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.672Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.683Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.690Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.698Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.706Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:27:35 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:27:35.713Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:27:35.732Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-02.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:29:13.693Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:29:13.800Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:13 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 201 248 \"-\" \"-\"","timestamp":"2025-05-12T02:29:13.985Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.009Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.023Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.031Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.047Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.056Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.064Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.072Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.080Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:14 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:14.088Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:29:14.093Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-02.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:29:27.295Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:29:27.424Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 201 248 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.620Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.644Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.660Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.668Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.680Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.688Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.695Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.705Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.713Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:02:29:27 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T02:29:27.721Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:29:27.731Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-02.i6pnzbk.mongodb.net","timestamp":"2025-05-12T02:30:54.545Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T02:30:54.600Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T02:30:54.679Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-01.i6pnzbk.mongodb.net","timestamp":"2025-05-12T05:20:34.861Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T05:20:35.397Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:36 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 201 238 \"-\" \"-\"","timestamp":"2025-05-12T05:20:36.936Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.016Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.063Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.088Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.147Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.174Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.198Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.220Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.237Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:05:20:37 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T05:20:37.259Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T05:20:37.291Z"}
+{"level":"info","message":"Server running in test mode on port 3000","timestamp":"2025-05-12T06:36:47.816Z"}
+{"level":"info","message":"MongoDB Connected: ac-vetpqtb-shard-00-02.i6pnzbk.mongodb.net","timestamp":"2025-05-12T06:36:48.495Z"}
+{"level":"info","message":"Connected to test database","timestamp":"2025-05-12T06:36:48.638Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 201 238 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.111Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.156Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.174Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.182Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.197Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.210Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.224Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.236Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.249Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/May/2025:06:36:49 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"-\"","timestamp":"2025-05-12T06:36:49.262Z"}
+{"level":"info","message":"Disconnected from test database","timestamp":"2025-05-12T06:36:49.332Z"}
