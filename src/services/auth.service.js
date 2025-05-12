@@ -19,7 +19,7 @@ export default {
         email,
         password
       });
-
+      console.log(user);
       return user.getSignedJwtToken();
     } catch (error) {
       logger.error(`AuthService - registerUser: ${error.message}`);

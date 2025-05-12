@@ -74,11 +74,11 @@ export const errorResponse = (res, statusCode, message = 'Error', error = null) 
 };
 
 // Success response formatter
-export const successResponse = (res, statusCode, data = null, message = 'Success') => {
+export const successResponse = (res, statusCode, result = null, message = 'Success') => {
   return res.status(statusCode).json({
     success: true,
     message,
-    data
+    result: result
   });
 };
 

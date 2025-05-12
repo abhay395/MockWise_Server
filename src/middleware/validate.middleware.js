@@ -5,12 +5,22 @@ const validate = (schema) => (req, res, next) => {
   try {
     const { error } = schema.validate(req.body, {
       abortEarly: false,
-      stripUnknown: true
+      stripUnknown: true,
+      allowUnknown: false
     });
 
     if (error) {
-      const errorMessage = error.details.map(detail => detail.message).join(', ');
-      throw new ApiError(errorMessage, 400);
+      // Format validation errors into a more readable structure
+      const formattedErrors = error.details.reduce((acc, detail) => {
+        const key = detail.path.join('.');
+        if (!acc[key]) {
+          acc[key] = [];
+        }
+        acc[key].push(detail.message);
+        return acc;
+      }, {});
+
+      throw new ApiError('Validation Error', 400, formattedErrors);
     }
 
     next();
