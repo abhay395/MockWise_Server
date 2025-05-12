@@ -1,6 +1,7 @@
 import jwt from 'jsonwebtoken';
 import asyncHandler from 'express-async-handler';
 import User from '../models/user.model.js';
+import ApiError from '../utils/ApiError.js';
 
 const authMiddleware = {
   protect: asyncHandler(async (req, res, next) => {
@@ -13,8 +14,7 @@ const authMiddleware = {
 
     // If no token found, return 401 Unauthorized
     if (!token) {
-      res.status(401);
-      throw new Error('Not authorized to access this route');
+      throw new ApiError('Not authorized to access this route', 401);
     }
 
     try {
@@ -26,16 +26,14 @@ const authMiddleware = {
       
       // If user not found, return 401 Unauthorized
       if (!req.user) {
-        res.status(401);
-        throw new Error('User not found');
+        throw new ApiError('Not authorized to access this route', 401);
       }
       
       // Proceed to next middleware
       next();
     } catch (error) {
       // Handle token verification errors
-      res.status(401);
-      throw new Error('Not authorized to access this route');
+      throw new ApiError('Not authorized to access this route', 401);
     }
   }),
 

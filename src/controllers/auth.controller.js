@@ -21,8 +21,8 @@ export default {
   // @access  Public
   login: async (req, res) => {
     try {
-      const token = await authService.loginUser(req.body);
-      successResponse(res, 200, { token }, 'Login successful');
+      const result = await authService.loginUser(req.body);
+      successResponse(res, 200, result, 'Login successful');
     } catch (error) {
       logger.error(`AuthController - login: ${error.message}`);
       throw error;
