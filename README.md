@@ -5,12 +5,14 @@ A robust Node.js backend server for the MockWise application, built with Express
 ## Features
 
 - **Authentication & Security**
-  - JWT-based authentication
+  - JWT-based authentication with robust token validation
   - Password hashing with bcrypt
   - Helmet for security headers
   - CORS protection
   - Rate limiting
   - XSS protection
+  - Comprehensive token error handling
+  - Secure middleware protection for authenticated routes
 
 - **Database & Data Management**
   - MongoDB with Mongoose ODM
@@ -107,6 +109,9 @@ src/
 - POST `/api/v1/auth/login` - User login
 - GET `/api/v1/auth/me` - Get current user profile
 
+### OpenAI Endpoints
+- POST `/api/v1/openAi/ask` - Ask a question to the AI model (Public access)
+
 ### Mock Interview Endpoints
 - GET `/api/v1/interviews` - List all interviews
 - POST `/api/v1/interviews` - Create new interview
@@ -121,6 +126,9 @@ The application implements centralized error handling with:
 - Descriptive error messages
 - Error logging
 - Client-friendly error responses
+- Specific error handling for authentication failures
+- Token validation error handling
+- API error class for consistent error responses
 
 ## Logging
 

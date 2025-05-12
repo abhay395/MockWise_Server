@@ -4,7 +4,7 @@ import { logger } from '../utils/logger.js';
 
 export default {
   // @desc    Register user
-  // @route   POST /api/auth/register
+  // @route   POST /api/v1/auth/register
   // @access  Public
   register: async (req, res) => {
     try {
@@ -17,7 +17,7 @@ export default {
   },
 
   // @desc    Login user
-  // @route   POST /api/auth/login
+  // @route   POST /api/v1/auth/login
   // @access  Public
   login: async (req, res) => {
     try {
@@ -30,7 +30,7 @@ export default {
   },
 
   // @desc    Get current logged in user
-  // @route   GET /api/auth/me
+  // @route   GET /api/v1/auth/me
   // @access  Private
   getMe: async (req, res) => {
     try {
